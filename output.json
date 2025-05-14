@@ -1,0 +1,11 @@
+[
+  {
+    "theme": "Example Theme",
+    "quotes": [
+      "I love the idea of an AI that writes emails...",
+      "Privacy is my biggest concern...",
+      "If this works with Gmail and Slack..."
+    ],
+    "sentiment": "negative"
+  }
+]
